@@ -1,7 +1,7 @@
 # Experiment 7: Webots (reactive swarm and lidar navigation)
 
-**Status: runs not yet done.** Webots R2025a does not run on my laptop (macOS 27.0.1, Apple M1), so the
-simulations have to be run on another computer. No result in this folder or in the report has been taken
+**Status: not run.** Webots R2025a does not run on my laptop (macOS 27.0.1, Apple M1) and no other computer was available, so the
+simulations were not run. No result in this folder or in the report has been taken
 from the sample runs shipped with webots-robotics-sim.
 
 ## How to run
