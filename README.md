@@ -2,7 +2,7 @@
 
 - **Student:** Anirvan Ranjan, SAP ID 500119330
 - **Batch:** B (B.Tech CSE AI & ML, B2), Semester VII, Autumn 2026–27
-- **Laboratory partner(s):** none (performed individually)
+- **Laboratory partner(s):** Aditya Pratap Singh Sisodia (SAP ID 500121985), Experiment 7 only
 - **Roll No.:** R2142230418
 - **Course teacher:** Dr. Resham Raj Shivwanshi, School of Computer Science, UPES Dehradun
 
@@ -16,7 +16,7 @@ Code, results and figures for Experiments 1 to 8 of the laboratory report.
 | `exp04-hillclimb/` | 4. Hill climbing and random restarts | notebook, `results.json`, figures |
 | `exp05-rl/` | 5. Tabular Q-learning | notebook, `results.json`, figures |
 | `exp06-neural/` | 6. NumPy neural network for XOR | notebook, `results.json`, figures |
-| `exp07-webots/` | 7. Webots swarm and lidar navigation | run script, analysis script, `NOTES.md` (not run: Webots does not run on macOS 27) |
+| `exp07-webots/` | 7. Webots swarm and lidar navigation | run and analysis scripts, figures from my partner's runs, `NOTES.md` |
 | `exp08-xembody/` | 8. Cross-embodiment transfer (PyBullet) | result CSVs and plots, exercises E2 and E4, `NOTES.md` |
 
 ## Reproducing Experiments 1 to 6
