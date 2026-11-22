@@ -1,7 +1,7 @@
 # CSAI4014 Algorithms for Intelligent Systems and Robotics: Laboratory Work
 
 - **Student:** Anirvan Ranjan, SAP ID 500119330
-- **Batch:** B (B.Tech CSE AI & ML, B2), Semester VII, Autumn 2026–27
+- **Batch:** 2 (B.Tech CSE AI & ML, B2), Semester VII, Autumn 2026–27
 - **Laboratory partner(s):** Aditya Pratap Singh Sisodia (SAP ID 500121985), Experiment 7 only
 - **Roll No.:** R2142230418
 - **Course teacher:** Dr. Resham Raj Shivwanshi, School of Computer Science, UPES Dehradun
